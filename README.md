@@ -64,6 +64,6 @@ Steps for contributing:
 
 ---
 
-If you like this project, consider giving it a **"star"** and sharing it with others!
+If you like this project, consider giving it a **"STAR"** and sharing it with others! ⭐
 
 ---

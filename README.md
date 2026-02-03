@@ -63,5 +63,7 @@ Steps for contributing:
 3. Collaborate on possible website enhancements.  
 
 ---
+
 If you like this project, consider giving it a **"STAR"** and sharing it with others! ⭐
+
 ---
